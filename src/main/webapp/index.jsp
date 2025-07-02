@@ -2,7 +2,7 @@
 <body>
 <h1><font color='green'> Welcome to DevOps <font></h1>
 
-<a href="https://www.youtube.com/@clouddevopswithaseem">Click Here To See our youtube Channel</a>
+<a href="https://skillpetals.com/index.php/devops-course/">Click Here To see the details of DevOps certification</a>
   
   <h2> Website : https://www.cloudaseem.com </h2>
   
