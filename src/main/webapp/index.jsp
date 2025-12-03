@@ -4,9 +4,9 @@
 
 <a href="https://skillpetals.com/index.php/devops-course/">Click Here To see the details of DevOps certification</a>
   
-  <h2> Website : https://www.cloudaseem.com </h2>
+  <h2> Website : https://www.skillpetals.com </h2>
   
-  <h3> Linkdien : Follow us  : www.linkedin.com/in/mohammed-aseem-akram  </h3>
+  <h3> Linkdien : Follow us  : www.linkedin.com/in/abhishek-bajpai  </h3>
 
   <h4> Subscribe & Share the Channel </h4>
 
