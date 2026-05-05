@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='green'> Welcome abhishek bajpai once more <font></h1>
+<h1><font color='green'> Welcome AI team <font></h1>
 
 <a href="https://skillpetals.com/index.php/devops-course/">Click Here To see the details of DevOps certification</a>
   
