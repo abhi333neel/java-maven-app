@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='green'> Welcome AI tools team <font></h1>
+<h1><font color='green'> Welcome develpers team batch @03:00pm <font></h1>
 
 <a href="https://skillpetals.com/index.php/devops-course/">Click Here To see the details of DevOps certification</a>
   
